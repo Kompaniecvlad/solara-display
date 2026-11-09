@@ -1,0 +1,28 @@
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# SwiftPM
+.swiftpm/
+.build/
+
+# macOS
+.DS_Store
+
+# Release output. The shipped image at the repo root stays in git.
+dist/
+*.dmg
+!/Solara Display.dmg
+
+# Secrets
+*.provisionprofile
+*.p12
+*.cer
+.env

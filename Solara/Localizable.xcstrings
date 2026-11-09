@@ -1,0 +1,230 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "popover.subtitle" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Unlock 1600 nits" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Desbloquea 1600 nits" } },
+        "ru" : { "stringUnit" : { "state" : "translated", "value" : "Разблокировка 1600 нит" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "解锁 1600 尼特" } }
+      }
+    },
+    "empty.no_displays" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "No displays found" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "No se encontraron pantallas" } },
+        "ru" : { "stringUnit" : { "state" : "translated", "value" : "Мониторы не найдены" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "未找到显示器" } }
+      }
+    },
+    "settings.launch_at_login" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Open at login" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Abrir al iniciar sesión" } },
+        "ru" : { "stringUnit" : { "state" : "translated", "value" : "Открывать при входе" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "登录时打开" } }
+      }
+    },
+    "settings.quit" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Quit" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Salir" } },
+        "ru" : { "stringUnit" : { "state" : "translated", "value" : "Выйти" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "退出" } }
+      }
+    },
+    "settings.menu_percent" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Show percent in menu bar" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Mostrar porcentaje en la barra de menús" } },
+        "ru" : { "stringUnit" : { "state" : "translated", "value" : "Проценты в строке меню" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "在菜单栏显示百分比" } }
+      }
+    },
+    "settings.sync" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Sync displays" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Sincronizar pantallas" } },
+        "ru" : { "stringUnit" : { "state" : "translated", "value" : "Синхронизировать мониторы" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "同步显示器" } }
+      }
+    },
+    "preset.sdr" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "SDR" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "SDR" } },
+        "ru" : { "stringUnit" : { "state" : "translated", "value" : "SDR" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "SDR" } }
+      }
+    },
+    "preset.1000" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "1000" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "1000" } },
+        "ru" : { "stringUnit" : { "state" : "translated", "value" : "1000" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "1000" } }
+      }
+    },
+    "preset.1600" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "1600" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "1600" } },
+        "ru" : { "stringUnit" : { "state" : "translated", "value" : "1600" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "1600" } }
+      }
+    },
+    "preset.restore" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "↩" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "↩" } },
+        "ru" : { "stringUnit" : { "state" : "translated", "value" : "↩" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "↩" } }
+      }
+    },
+    "warning.peak" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Peak 1600 nits — the panel runs hotter and uses more power." } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Pico de 1600 nits: el panel se calienta más y consume más energía." } },
+        "ru" : { "stringUnit" : { "state" : "translated", "value" : "Пик 1600 нит — панель греется сильнее и больше сажает батарею." } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "峰值 1600 尼特 — 屏幕会更热，耗电也更多。" } }
+      }
+    },
+    "about.title" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "About" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Acerca de" } },
+        "ru" : { "stringUnit" : { "state" : "translated", "value" : "О проекте" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "关于" } }
+      }
+    },
+    "about.body" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Solara Display unlocks MacBook Pro brightness up to 1600 nits." } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Solara Display desbloquea el brillo del MacBook Pro hasta 1600 nits." } },
+        "ru" : { "stringUnit" : { "state" : "translated", "value" : "Solara Display разблокирует яркость MacBook Pro до 1600 нит." } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "Solara Display 可将 MacBook Pro 的亮度解锁至 1600 尼特。" } }
+      }
+    },
+    "about.requires" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "macOS 14 or later. 1600 nits on 2021+ 14\"/16\" MacBook Pro." } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "macOS 14 o posterior. 1600 nits en MacBook Pro de 14\"/16\" de 2021 o posterior." } },
+        "ru" : { "stringUnit" : { "state" : "translated", "value" : "macOS 14 и новее. 1600 нит — 14\"/16\" MacBook Pro 2021+." } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "需要 macOS 14 或更高版本。1600 尼特适用于 2021 年及之后的 14\"/16\" MacBook Pro。" } }
+      }
+    },
+    "about.developed" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Developed by" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Desarrollado por" } },
+        "ru" : { "stringUnit" : { "state" : "translated", "value" : "Разработано" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "开发者" } }
+      }
+    },
+    "about.close" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Close" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Cerrar" } },
+        "ru" : { "stringUnit" : { "state" : "translated", "value" : "Закрыть" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "关闭" } }
+      }
+    },
+    "about.version %@" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Version %@" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Versión %@" } },
+        "ru" : { "stringUnit" : { "state" : "translated", "value" : "Версия %@" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "版本 %@" } }
+      }
+    },
+    "display.builtin" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Built-in" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Integrada" } },
+        "ru" : { "stringUnit" : { "state" : "translated", "value" : "Встроенный" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "内建" } }
+      }
+    },
+    "display.external" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "External" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Externa" } },
+        "ru" : { "stringUnit" : { "state" : "translated", "value" : "Внешний" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "外接" } }
+      }
+    },
+    "method.hardware" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Hardware" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Hardware" } },
+        "ru" : { "stringUnit" : { "state" : "translated", "value" : "Железо" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "硬件" } }
+      }
+    },
+    "method.ddc" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "DDC" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "DDC" } },
+        "ru" : { "stringUnit" : { "state" : "translated", "value" : "DDC" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "DDC" } }
+      }
+    },
+    "method.software" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Software" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Software" } },
+        "ru" : { "stringUnit" : { "state" : "translated", "value" : "Программно" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "软件" } }
+      }
+    },
+    "method.unavailable" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Unavailable" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "No disponible" } },
+        "ru" : { "stringUnit" : { "state" : "translated", "value" : "Недоступно" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "不可用" } }
+      }
+    },
+    "status.xdr %lld" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "%lld nits · unlocked to 1600" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "%lld nits · desbloqueado hasta 1600" } },
+        "ru" : { "stringUnit" : { "state" : "translated", "value" : "%lld нит · разблокировано до 1600" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "%lld 尼特 · 已解锁至 1600" } }
+      }
+    },
+    "hud.nits %lld" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "%lld nits" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "%lld nits" } },
+        "ru" : { "stringUnit" : { "state" : "translated", "value" : "%lld нит" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "%lld 尼特" } }
+      }
+    },
+    "install.move_title" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Move Solara Display to Applications" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Mueve Solara Display a Aplicaciones" } },
+        "ru" : { "stringUnit" : { "state" : "translated", "value" : "Переместите Solara Display в Программы" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "将 Solara Display 移到“应用程序”" } }
+      }
+    },
+    "install.move_body" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Drag the app into Applications, then open it from there. Running from a disk image can break brightness control." } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Arrastra la app a Aplicaciones y ábrela desde ahí. Si se ejecuta desde una imagen de disco, el control de brillo puede fallar." } },
+        "ru" : { "stringUnit" : { "state" : "translated", "value" : "Перетащите приложение в Программы и запускайте оттуда. С диска-образа управление яркостью может не работать." } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "将应用拖到“应用程序”文件夹，再从那里打开。从磁盘映像运行可能导致亮度控制失效。" } }
+      }
+    },
+    "install.move_ok" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "OK" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "OK" } },
+        "ru" : { "stringUnit" : { "state" : "translated", "value" : "ОК" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "好" } }
+      }
+    }
+  },
+  "version" : "1.0"
+}
